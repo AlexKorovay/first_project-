@@ -1,3 +1,4 @@
 a = 10
 b = 125
-print(a+b)
+z = 154
+print((a+b)/z)
